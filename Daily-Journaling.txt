@@ -3,4 +3,9 @@ Date:- 17th Aug 2019
 1. Today I have two priorities :- Revise Projects and work on Angular todo
 and stop smoking and going out unnecessary.
 
-2. 
+======================================================================
+# time:- 5:20
+    * finished with reading on component,service
+    * refactoring html of temperature converter
+    * improving the readme of temperature converter
+    
