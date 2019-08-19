@@ -1,3 +1,18 @@
+Date:- 19th Aug 2019
+
+1. Today i went for an interview of civisense and fortunately the guy who took my interview
+belong from uttarakhand dehradoon. It was a great time we talked about his Project. He told me that
+he wants to give me an upportunity so that i can prove. I am goinf to do well but 
+at the same time I will constantly work on my personal projects so that after the internship I should have 
+grasp some knowledge and showcase my work. So that I am not just relying on the job
+
+2. BRAND BUILDING:-
+I will work on my youtube channel and my blog so that I can constantly improve my self
+I will share my stories with you guys it will be fun afterwards
+
+
+
+
 Date:- 17th Aug 2019
 
 1. Today I have two priorities :- Revise Projects and work on Angular todo
@@ -8,4 +23,4 @@ and stop smoking and going out unnecessary.
     * finished with reading on component,service
     * refactoring html of temperature converter
     * improving the readme of temperature converter
-    
+
