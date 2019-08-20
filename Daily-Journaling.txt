@@ -1,3 +1,9 @@
+
+
+
+================================================================================================================
+
+
 Date:- 19th Aug 2019
 
 1. Today i went for an interview of civisense and fortunately the guy who took my interview
@@ -18,7 +24,7 @@ Date:- 17th Aug 2019
 1. Today I have two priorities :- Revise Projects and work on Angular todo
 and stop smoking and going out unnecessary.
 
-======================================================================
+=================================================================================================================
 # time:- 5:20
     * finished with reading on component,service
     * refactoring html of temperature converter
