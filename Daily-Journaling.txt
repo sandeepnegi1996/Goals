@@ -1,3 +1,15 @@
+Date:- 20th Aug 2019
+
+1. Today I have learnt the basics of AWS 
+Task 1:- I have create a virtual machine on AWS using linux AMI(Amazon machine image)
+Task 2:- Then I have connected to that VM using bash and putty
+
+Learning:- Using bash it was easy but using putty first you have to convert the format of the 
+            private key then it can used.
+
+Thats all for the day....
+            
+
 
 
 
